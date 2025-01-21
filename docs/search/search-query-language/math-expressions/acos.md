@@ -16,5 +16,5 @@ acos(<x>) as <field>
 ## Example
 
 ```sql
-acos(1) as v // v = 0
+acos(5) as v // v = 0
 ```
